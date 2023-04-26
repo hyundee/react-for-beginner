@@ -6,7 +6,7 @@ import Detail from "./routes/Detail";
 const App = createBrowserRouter(
   [
     {
-      path: "/your-repository-name",
+      path: "/",
       element: <Home />,
     },
     {
